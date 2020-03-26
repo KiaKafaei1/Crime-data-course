@@ -1,0 +1,499 @@
+Precinct,NTAName
+1,Battery Park City-Lower Manhattan
+1,Chinatown
+1,SoHo-TriBeCa-Civic Center-Little Italy
+1,West Village
+1,park-cemetery-etc-Manhattan
+5,Chinatown
+5,SoHo-TriBeCa-Civic Center-Little Italy
+6,Hudson Yards-Chelsea-Flatiron-Union Square
+6,West Village
+7,Chinatown
+7,East Village
+7,Lower East Side
+9,East Village
+9,Gramercy
+9,Hudson Yards-Chelsea-Flatiron-Union Square
+9,Lower East Side
+9,SoHo-TriBeCa-Civic Center-Little Italy
+9,West Village
+10,Clinton
+10,Hudson Yards-Chelsea-Flatiron-Union Square
+10,Midtown-Midtown South
+13,Gramercy
+13,Hudson Yards-Chelsea-Flatiron-Union Square
+13,Midtown-Midtown South
+13,Murray Hill-Kips Bay
+13,Stuyvesant Town-Cooper Village
+14,Clinton
+14,Gramercy
+14,Midtown-Midtown South
+14,Murray Hill-Kips Bay
+14,Turtle Bay-East Midtown
+17,Murray Hill-Kips Bay
+17,Turtle Bay-East Midtown
+18,Clinton
+18,Lincoln Square
+18,Midtown-Midtown South
+18,Turtle Bay-East Midtown
+18,Upper East Side-Carnegie Hill
+18,park-cemetery-etc-Manhattan
+19,Lenox Hill-Roosevelt Island
+19,Turtle Bay-East Midtown
+19,Upper East Side-Carnegie Hill
+19,Yorkville
+20,Lincoln Square
+20,Upper West Side
+20,park-cemetery-etc-Manhattan
+22,Morningside Heights
+22,Upper East Side-Carnegie Hill
+22,Upper West Side
+22,park-cemetery-etc-Manhattan
+23,East Harlem North
+23,East Harlem South
+23,Upper East Side-Carnegie Hill
+23,Yorkville
+23,park-cemetery-etc-Manhattan
+24,Morningside Heights
+24,Upper West Side
+25,Central Harlem North-Polo Grounds
+25,Central Harlem South
+25,East Harlem North
+25,Yorkville
+25,park-cemetery-etc-Manhattan
+26,Hamilton Heights
+26,Manhattanville
+26,Morningside Heights
+28,Central Harlem North-Polo Grounds
+28,Central Harlem South
+28,East Harlem North
+28,Morningside Heights
+28,park-cemetery-etc-Manhattan
+30,Hamilton Heights
+30,Manhattanville
+32,Central Harlem North-Polo Grounds
+32,Hamilton Heights
+32,park-cemetery-etc-Manhattan
+33,Hamilton Heights
+33,Washington Heights North
+33,Washington Heights South
+33,park-cemetery-etc-Manhattan
+34,Marble Hill-Inwood
+34,Washington Heights North
+34,Washington Heights South
+34,park-cemetery-etc-Manhattan
+40,East Concourse-Concourse Village
+40,Hunts Point
+40,Melrose South-Mott Haven North
+40,Mott Haven-Port Morris
+40,West Concourse
+41,Crotona Park East
+41,Hunts Point
+41,Longwood
+41,Melrose South-Mott Haven North
+41,Morrisania-Melrose
+41,Mott Haven-Port Morris
+41,Soundview-Bruckner
+41,Soundview-Castle Hill-Clason Point-Harding Park
+41,West Farms-Bronx River
+42,Claremont-Bathgate
+42,Crotona Park East
+42,East Concourse-Concourse Village
+42,East Tremont
+42,Hunts Point
+42,Longwood
+42,Morrisania-Melrose
+42,park-cemetery-etc-Bronx
+43,Crotona Park East
+43,Parkchester
+43,Soundview-Bruckner
+43,Soundview-Castle Hill-Clason Point-Harding Park
+43,Van Nest-Morris Park-Westchester Square
+43,West Farms-Bronx River
+43,Westchester-Unionport
+43,park-cemetery-etc-Bronx
+44,Claremont-Bathgate
+44,East Concourse-Concourse Village
+44,Highbridge
+44,Morrisania-Melrose
+44,Mount Hope
+44,University Heights-Morris Heights
+44,West Concourse
+44,park-cemetery-etc-Bronx
+45,Co-op City
+45,Eastchester-Edenwald-Baychester
+45,Pelham Bay-Country Club-City Island
+45,Schuylerville-Throgs Neck-Edgewater Park
+45,Soundview-Castle Hill-Clason Point-Harding Park
+45,Van Nest-Morris Park-Westchester Square
+45,Westchester-Unionport
+45,park-cemetery-etc-Bronx
+46,Bedford Park-Fordham North
+46,Claremont-Bathgate
+46,Fordham South
+46,Kingsbridge Heights
+46,Mount Hope
+46,University Heights-Morris Heights
+47,Allerton-Pelham Gardens
+47,Bronxdale
+47,Co-op City
+47,Eastchester-Edenwald-Baychester
+47,Norwood
+47,Williamsbridge-Olinville
+47,Woodlawn-Wakefield
+47,park-cemetery-etc-Bronx
+48,Belmont
+48,Claremont-Bathgate
+48,Crotona Park East
+48,East Tremont
+48,Mount Hope
+48,West Farms-Bronx River
+48,park-cemetery-etc-Bronx
+49,Allerton-Pelham Gardens
+49,Bronxdale
+49,East Tremont
+49,Eastchester-Edenwald-Baychester
+49,Pelham Parkway
+49,Van Nest-Morris Park-Westchester Square
+49,West Farms-Bronx River
+49,Williamsbridge-Olinville
+49,park-cemetery-etc-Bronx
+50,Marble Hill-Inwood
+50,North Riverdale-Fieldston-Riverdale
+50,Spuyten Duyvil-Kingsbridge
+50,Van Cortlandt Village
+50,Woodlawn-Wakefield
+50,park-cemetery-etc-Bronx
+50,park-cemetery-etc-Manhattan
+52,Bedford Park-Fordham North
+52,Belmont
+52,Bronxdale
+52,East Tremont
+52,Kingsbridge Heights
+52,Marble Hill-Inwood
+52,Norwood
+52,Spuyten Duyvil-Kingsbridge
+52,Van Cortlandt Village
+52,West Farms-Bronx River
+52,Williamsbridge-Olinville
+52,Woodlawn-Wakefield
+52,park-cemetery-etc-Bronx
+60,Bensonhurst East
+60,Brighton Beach
+60,Gravesend
+60,Seagate-Coney Island
+60,West Brighton
+61,Bensonhurst East
+61,Brighton Beach
+61,Georgetown-Marine Park-Bergen Beach-Mill Basin
+61,Gravesend
+61,Homecrest
+61,Madison
+61,Sheepshead Bay-Gerritsen Beach-Manhattan Beach
+61,park-cemetery-etc-Brooklyn
+62,Bath Beach
+62,Bay Ridge
+62,Bensonhurst East
+62,Bensonhurst West
+62,Borough Park
+62,Dyker Heights
+62,park-cemetery-etc-Brooklyn
+63,Canarsie
+63,East Flatbush-Farragut
+63,Flatlands
+63,Georgetown-Marine Park-Bergen Beach-Mill Basin
+63,Midwood
+63,park-cemetery-etc-Brooklyn
+66,Bensonhurst East
+66,Bensonhurst West
+66,Borough Park
+66,Flatbush
+66,Homecrest
+66,Kensington-Ocean Parkway
+66,Midwood
+66,Ocean Parkway South
+66,Sunset Park East
+66,Windsor Terrace
+66,park-cemetery-etc-Brooklyn
+67,Brownsville
+67,Crown Heights South
+67,East Flatbush-Farragut
+67,Erasmus
+67,Flatbush
+67,Flatlands
+67,Prospect Lefferts Gardens-Wingate
+67,Rugby-Remsen Village
+67,park-cemetery-etc-Brooklyn
+68,Bay Ridge
+68,Borough Park
+68,Dyker Heights
+68,Sunset Park East
+68,Sunset Park West
+68,park-cemetery-etc-Brooklyn
+69,Brownsville
+69,Canarsie
+69,East New York
+69,East New York (Pennsylvania Ave)
+69,Flatlands
+69,Georgetown-Marine Park-Bergen Beach-Mill Basin
+69,Rugby-Remsen Village
+69,Starrett City
+69,park-cemetery-etc-Brooklyn
+70,Borough Park
+70,East Flatbush-Farragut
+70,Erasmus
+70,Flatbush
+70,Flatlands
+70,Georgetown-Marine Park-Bergen Beach-Mill Basin
+70,Homecrest
+70,Kensington-Ocean Parkway
+70,Madison
+70,Midwood
+70,Ocean Parkway South
+70,Prospect Lefferts Gardens-Wingate
+70,park-cemetery-etc-Brooklyn
+71,Crown Heights North
+71,Crown Heights South
+71,Prospect Lefferts Gardens-Wingate
+72,Park Slope-Gowanus
+72,Sunset Park East
+72,Sunset Park West
+72,Windsor Terrace
+72,park-cemetery-etc-Brooklyn
+73,Brownsville
+73,Crown Heights North
+73,East New York (Pennsylvania Ave)
+73,Ocean Hill
+73,Rugby-Remsen Village
+73,Stuyvesant Heights
+75,Brownsville
+75,Cypress Hills-City Line
+75,East New York
+75,East New York (Pennsylvania Ave)
+75,Lindenwood-Howard Beach
+75,Ocean Hill
+75,Starrett City
+75,park-cemetery-etc-Brooklyn
+76,Brooklyn Heights-Cobble Hill
+76,Carroll Gardens-Columbia Street-Red Hook
+76,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill
+76,Park Slope-Gowanus
+76,park-cemetery-etc-Manhattan
+77,Crown Heights North
+77,Ocean Hill
+77,Prospect Heights
+77,park-cemetery-etc-Brooklyn
+78,Crown Heights South
+78,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill
+78,Fort Greene
+78,Park Slope-Gowanus
+78,Prospect Heights
+78,park-cemetery-etc-Brooklyn
+79,Bedford
+79,Bushwick South
+79,Clinton Hill
+79,Crown Heights North
+79,Stuyvesant Heights
+79,Williamsburg
+81,Crown Heights North
+81,Ocean Hill
+81,Stuyvesant Heights
+83,Bushwick North
+83,Bushwick South
+83,Cypress Hills-City Line
+83,Glendale
+83,Ocean Hill
+83,Ridgewood
+83,Stuyvesant Heights
+83,park-cemetery-etc-Queens
+84,Battery Park City-Lower Manhattan
+84,Brooklyn Heights-Cobble Hill
+84,Carroll Gardens-Columbia Street-Red Hook
+84,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill
+84,Fort Greene
+84,Lower East Side
+88,Clinton Hill
+88,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill
+88,Fort Greene
+88,Prospect Heights
+88,park-cemetery-etc-Brooklyn
+90,Bedford
+90,Bushwick North
+90,Bushwick South
+90,East Williamsburg
+90,North Side-South Side
+90,Williamsburg
+90,park-cemetery-etc-Brooklyn
+94,East Williamsburg
+94,Greenpoint
+94,North Side-South Side
+94,Stuyvesant Town-Cooper Village
+100,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+100,Hammels-Arverne-Edgemere
+100,park-cemetery-etc-Brooklyn
+100,park-cemetery-etc-Queens
+101,Far Rockaway-Bayswater
+101,Hammels-Arverne-Edgemere
+101,park-cemetery-etc-Queens
+102,Briarwood-Jamaica Hills
+102,Cypress Hills-City Line
+102,Forest Hills
+102,Glendale
+102,Jamaica
+102,Kew Gardens
+102,Ozone Park
+102,Richmond Hill
+102,South Ozone Park
+102,Woodhaven
+102,park-cemetery-etc-Queens
+103,Briarwood-Jamaica Hills
+103,Hollis
+103,Jamaica
+103,Jamaica Estates-Holliswood
+103,South Jamaica
+103,South Ozone Park
+103,St. Albans
+104,Bushwick North
+104,Cypress Hills-City Line
+104,Elmhurst
+104,Elmhurst-Maspeth
+104,Glendale
+104,Hunters Point-Sunnyside-West Maspeth
+104,Maspeth
+104,Middle Village
+104,Ridgewood
+104,park-cemetery-etc-Brooklyn
+104,park-cemetery-etc-Queens
+105,Bellerose
+105,Cambria Heights
+105,Douglas Manor-Douglaston-Little Neck
+105,Glen Oaks-Floral Park-New Hyde Park
+105,Jamaica Estates-Holliswood
+105,Laurelton
+105,Queens Village
+105,Rosedale
+105,Springfield Gardens South-Brookville
+105,St. Albans
+106,Airport
+106,Lindenwood-Howard Beach
+106,Ozone Park
+106,South Ozone Park
+107,Auburndale
+107,Bayside-Bayside Hills
+107,Briarwood-Jamaica Hills
+107,Fresh Meadows-Utopia
+107,Jamaica
+107,Jamaica Estates-Holliswood
+107,Kew Gardens Hills
+107,Oakland Gardens
+107,Pomonok-Flushing Heights-Hillcrest
+107,Queensboro Hill
+107,park-cemetery-etc-Queens
+108,Elmhurst-Maspeth
+108,Hunters Point-Sunnyside-West Maspeth
+108,Jackson Heights
+108,Queensbridge-Ravenswood-Long Island City
+108,Turtle Bay-East Midtown
+108,Woodside
+108,park-cemetery-etc-Queens
+109,Auburndale
+109,Bayside-Bayside Hills
+109,College Point
+109,East Flushing
+109,Flushing
+109,Ft. Totten-Bay Terrace-Clearview
+109,Kew Gardens Hills
+109,Murray Hill
+109,Queensboro Hill
+109,Whitestone
+109,park-cemetery-etc-Queens
+110,Corona
+110,East Elmhurst
+110,Elmhurst
+110,Elmhurst-Maspeth
+110,Jackson Heights
+110,Maspeth
+110,Middle Village
+110,North Corona
+110,Rego Park
+110,park-cemetery-etc-Queens
+111,Auburndale
+111,Bayside-Bayside Hills
+111,Bellerose
+111,Douglas Manor-Douglaston-Little Neck
+111,Ft. Totten-Bay Terrace-Clearview
+111,Murray Hill
+111,Oakland Gardens
+111,Queens Village
+111,park-cemetery-etc-Queens
+112,Elmhurst
+112,Forest Hills
+112,Glendale
+112,Kew Gardens
+112,Kew Gardens Hills
+112,Middle Village
+112,Rego Park
+112,park-cemetery-etc-Queens
+113,Airport
+113,Baisley Park
+113,Hollis
+113,Laurelton
+113,Queens Village
+113,Rosedale
+113,South Jamaica
+113,South Ozone Park
+113,Springfield Gardens North
+113,Springfield Gardens South-Brookville
+113,St. Albans
+113,park-cemetery-etc-Queens
+114,Airport
+114,Astoria
+114,College Point
+114,Hunters Point-Sunnyside-West Maspeth
+114,Jackson Heights
+114,Lenox Hill-Roosevelt Island
+114,Mott Haven-Port Morris
+114,Old Astoria
+114,Queensbridge-Ravenswood-Long Island City
+114,Rikers Island
+114,Steinway
+114,Woodside
+114,park-cemetery-etc-Queens
+115,Airport
+115,College Point
+115,Corona
+115,East Elmhurst
+115,Jackson Heights
+115,North Corona
+115,park-cemetery-etc-Queens
+120,Grasmere-Arrochar-Ft. Wadsworth
+120,Grymes Hill-Clifton-Fox Hills
+120,New Brighton-Silver Lake
+120,Stapleton-Rosebank
+120,West New Brighton-New Brighton-St. George
+120,Westerleigh
+121,Mariner's Harbor-Arlington-Port Ivory-Graniteville
+121,New Springville-Bloomfield-Travis
+121,Port Richmond
+121,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill
+121,West New Brighton-New Brighton-St. George
+121,Westerleigh
+122,Annadale-Huguenot-Prince's Bay-Eltingville
+122,Grasmere-Arrochar-Ft. Wadsworth
+122,Great Kills
+122,Grymes Hill-Clifton-Fox Hills
+122,New Dorp-Midland Beach
+122,New Springville-Bloomfield-Travis
+122,Oakwood-Oakwood Beach
+122,Old Town-Dongan Hills-South Beach
+122,Stapleton-Rosebank
+122,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill
+122,Westerleigh
+122,park-cemetery-etc-Staten Island
+123,Annadale-Huguenot-Prince's Bay-Eltingville
+123,Arden Heights
+123,Charleston-Richmond Valley-Tottenville
+123,Great Kills
+123,New Springville-Bloomfield-Travis
+123,Rossville-Woodrow
+123,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill
